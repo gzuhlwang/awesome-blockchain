@@ -63,3 +63,13 @@ paxos，raft及其变种。
     
 ## 分布式领域牛人
  Leslie Lamport,Butler Lampson,Barbara Liskov and Nancy Lynch等。
+ 
+## 书籍
+
+    1、《Distributed Algorithms》by Nancy Lynch
+    2、《The science of blockchain》 by  Roger Wattenhofer 
+    
+## 学位论文
+
+    1、《Tendermint: Byzantine Fault Tolerance in the Age of Blockchains,master》by Buchman Ethan,2016-06-23
+    2、《Practical Byzantine Fault Tolerance，PhD》by Miguel Castro,January 31, 2001
