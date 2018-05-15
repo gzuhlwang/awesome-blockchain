@@ -1,3 +1,4 @@
+这里会罗列一些技术牛人写的白皮书。他们写的靠谱一点。
 
 1、Bitcoin：a peer to peer electronic cash system
 
