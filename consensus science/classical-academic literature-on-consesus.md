@@ -73,3 +73,4 @@ paxos，raft及其变种。
 
     1、《Tendermint: Byzantine Fault Tolerance in the Age of Blockchains,master》by Buchman Ethan,2016-06-23
     2、《Practical Byzantine Fault Tolerance，PhD》by Miguel Castro,January 31, 2001
+    3、《Consensus: Bridging Theory and Practice，PhD》 by Diego Ongaro,2014
