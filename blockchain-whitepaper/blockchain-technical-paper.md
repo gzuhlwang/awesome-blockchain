@@ -21,6 +21,8 @@
     9、IPFS
     
     10、Sia
+    
+    11、Zcash whitepaper
 
 ## DAG(Directed Acyclic Graph)
 
