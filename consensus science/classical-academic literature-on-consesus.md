@@ -53,7 +53,7 @@ Dijkstra Award：https://en.wikipedia.org/wiki/Dijkstra_Prize
     此论文和文献lamport的时间，时钟论文是研究复制状态机必读论文。
     
     3、Miller A, Xia Y, Croman K, et al. The Honey Badger of BFT Protocols[C]// ACM Sigsac Conference on Computer and Communications Security. ACM, 2016:31-42.
-    这篇论文提出了首个完全异步算法。polkadot的共识算法会参考这篇论文。
+    这篇论文提出了首个完全异步共识算法。polkadot的共识算法会参考这篇论文。
     这篇论文的实验设计也值得借鉴。
     
     4、Liu S, Viotti P, Cachin C, et al. XFT: Practical Fault Tolerance Beyond Crashes[J]. Computer Science, 2016.
