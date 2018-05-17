@@ -17,6 +17,10 @@
     7、EOS
     
     8、ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER
+    
+    9、IPFS
+    
+    10、Sia
 
 ## DAG(Directed Acyclic Graph)
 
