@@ -26,10 +26,15 @@
 
 ## DAG(Directed Acyclic Graph)
 
-    1、Byteball:A Decentralized System for Storage and Transfer of Value
-    https://byteball.org/Byteball.pdf
-    
+    1、DagCoin：https://bitslog.files.wordpress.com/2015/09/dagcoin-v41.pdf
+
     2、IOTA
+        
+    http://iotatoken.com/IOTA_Whitepaper.pdf
+   
+    3、Byteball:A Decentralized System for Storage and Transfer of Value
+   
+    https://byteball.org/Byteball.pdf
     
 ## Hashgraph
    
