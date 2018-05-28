@@ -10,9 +10,8 @@
     
     4、Tendermint whitepaper
     
-    5、COSMOS-Internet of Blockchains
-    
-    [Chinese version](https://github.com/bianjieai/translation/blob/master/Cosmos/Whitepaper_Chinese.md)
+    5、COSMOS-Internet of Blockchains 
+ps:[Chinese version for Cosmos whitepaer](https://github.com/bianjieai/translation/blob/master/Cosmos/Whitepaper_Chinese.md)
     
     6、Polkadot
     
@@ -28,7 +27,7 @@
 
 ## DAG(Directed Acyclic Graph)
 
-    1、[DagCoin](https://bitslog.files.wordpress.com/2015/09/dagcoin-v41.pdf)
+    1、DagCoin(https://bitslog.files.wordpress.com/2015/09/dagcoin-v41.pdf)
 
     2、IOTA
         
