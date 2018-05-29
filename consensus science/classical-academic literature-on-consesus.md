@@ -60,7 +60,7 @@ Dijkstra Award：https://en.wikipedia.org/wiki/Dijkstra_Prize
     
 ## 非拜占庭解决方案
 
-paxos，raft及其变种。
+paxos，raft及其变种。使用raft做共识的区块链项目有JP.摩根的[quorum](https://github.com/jpmorganchase/quorum)和国内的[CITA](https://github.com/cryptape/cita)
     
 ## 分布式领域牛人
  Leslie Lamport,Butler Lampson,Barbara Liskov and Nancy Lynch等。
