@@ -4,18 +4,18 @@
 
     1、Bitcoin：a peer to peer electronic cash system
     
-    2、Ethereum：A Next-Generation Smart Contract and Decentralized Application Platform
+    2、Ethereum(block-based+smart contract)：A Next-Generation Smart Contract and Decentralized Application Platform
     
     3、Bitshares：A Peer­to­Peer Polymorphic Digital Asset Exchange
     
-    4、Tendermint whitepaper
+    4、Tendermint whitepaper (PoS BFT)
     
     5、COSMOS-Internet of Blockchains 
 ps:[Chinese version for Cosmos whitepaer](https://github.com/bianjieai/translation/blob/master/Cosmos/Whitepaper_Chinese.md)
     
     6、Polkadot
     
-    7、EOS
+    7、EOS(DPoS BFT)
     
     8、ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER
     
@@ -36,6 +36,12 @@ ps:[Chinese version for Cosmos whitepaer](https://github.com/bianjieai/translati
     3、Byteball:A Decentralized System for Storage and Transfer of Value
    
     https://byteball.org/Byteball.pdf
+    
+    4、unknown ? (DAG+smart contract)
+    
+    5、Conflux
+    
+   ps: [Conflux](https://arxiv.org/abs/1805.03870)
     
 ## Hashgraph
    
