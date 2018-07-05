@@ -16,6 +16,8 @@ ps:[Chinese version for Cosmos whitepaer](https://github.com/bianjieai/translati
     6、Polkadot
     
     7、EOS(DPoS BFT)
+
+[EOS链间通信](https://steemit.com/eos/@dan/inter-blockchain-communication-via-merkle-proofs-with-eos-io)和[DPoS介绍](https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper)。
     
     8、ETHEREUM: A SECURE DECENTRALISED GENERALISED TRANSACTION LEDGER
     
