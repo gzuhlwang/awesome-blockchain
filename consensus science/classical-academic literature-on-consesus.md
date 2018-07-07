@@ -64,6 +64,8 @@ paxos，[raft](https://raft.github.io/#implementations)及其变种。使用raft
     
 ## 分布式领域牛人
  Leslie Lamport,Butler Lampson,Barbara Liskov and Nancy Lynch等。
+  
+ 活跃在blockchain领域的分布式专家有：[Dahlia Malkhi](https://dahliamalkhi.wordpress.com),她的主页很值得多去逛逛，相关学术观点也值得细品。
  
 ## 书籍
 
