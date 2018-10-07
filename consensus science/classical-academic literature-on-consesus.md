@@ -10,9 +10,9 @@ ACM SIGOPS(Special Interest Group on OPerating Systems)名人堂奖（Hall of Fa
     
     获奖理由：Perhaps the first true "distributed systems" paper, it introduced the concept of "causal ordering", which turned out to be useful in many settings. The paper proposed the mechanism it called "logical clocks", but everyone now calls these "Lamport clocks."
     此外，这篇论文获2000年Dijkstra Award。
-
+    
     2007年入选名人堂。
-
+    
     2、Leslie Lamport. The Part Time Parliament ACM TOCS 16(2), May 1998, 133--169.
       
     获奖理由：The work (originally published in 1989) was independent and roughly concurrent with the Viewstamped Replication work also recognized this year. It describes the protocol in a more general setting, add
@@ -43,11 +43,11 @@ ACM SIGOPS(Special Interest Group on OPerating Systems)名人堂奖（Hall of Fa
     这篇论文获2007年Dijkstra Award。这篇文章是Tendermint的设计思想来源。
 
 Dijkstra Award：https://en.wikipedia.org/wiki/Dijkstra_Prize
-    
+​    
 ## 其他
 
     1、Castro M, Liskov B. Practical Byzantine fault tolerance[C]// Symposium on Operating Systems Design & Implementation. ACM, 1999:173-186.
-    第一个实用的弱同步拜占庭解决方案。
+    第一个实用的弱同步拜占庭解决方案。该算法实现可以参考Fabric v0.6.
     
     2、Sneider F. Implementing Fault Tolerant Service using the State Machine Approach: a Tutorial[J]. 1990.
     此论文和文献lamport的时间，时钟论文是研究复制状态机必读论文。
@@ -57,21 +57,21 @@ Dijkstra Award：https://en.wikipedia.org/wiki/Dijkstra_Prize
     这篇论文的实验设计也值得借鉴。
     
     4、Liu S, Viotti P, Cachin C, et al. XFT: Practical Fault Tolerance Beyond Crashes[J]. Computer Science, 2016.
-    
+
 ## 非拜占庭解决方案
 
 paxos，[raft](https://raft.github.io/#implementations)及其变种。使用raft做共识的区块链项目有JP.摩根的[quorum](https://github.com/jpmorganchase/quorum)和国内的[CITA](https://github.com/cryptape/cita)
-    
+​    
 ## 分布式领域牛人
  Leslie Lamport,Butler Lampson,Barbara Liskov and Nancy Lynch等。
-  
+
  活跃在blockchain领域的分布式专家有：[Dahlia Malkhi](https://dahliamalkhi.wordpress.com),她的主页很值得多去逛逛，相关学术观点也值得细品。
- 
+
 ## 书籍
 
     1、《Distributed Algorithms》by Nancy Lynch
     2、《The science of blockchain》 by  Roger Wattenhofer 
-    
+
 ## 学位论文
 
     1、《Tendermint: Byzantine Fault Tolerance in the Age of Blockchains,master》by Buchman Ethan,2016-06-23
